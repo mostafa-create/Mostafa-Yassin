@@ -1,16 +1,13 @@
-<table align="center">
+<table align="center" border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="400">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&color=9D50BB&center=true&vCenter=true&width=400&height=50&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+PS+Mentor" alt="Typing SVG" />
+    <td align="left" width="550" style="border: none;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=9D50BB&center=false&vCenter=true&width=550&height=70&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+PS+Mentor" alt="Typing SVG" />
     </td>
-    <td align="center" width="200">
-      <img src="avatar.png" width="300" style="border-radius: 10px;" alt="Mostafa Yassin Avatar" />
+    <td align="right" width="350" style="border: none;">
+      <img src="avatar.png" width="350" style="border-radius: 20px;" alt="Mostafa Yassin Avatar" />
     </td>
   </tr>
 </table>
-
-###
-
 
 ###
 
