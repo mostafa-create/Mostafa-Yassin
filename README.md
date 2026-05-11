@@ -1,42 +1,45 @@
-<h1 align="center">Hi 👋, I'm <i><b>Mostafa Yassin</b></i> </h1>
-<h3 align="center">  Mentor at ICPC Sohag Community | Competitive programmer | CS Student  </h3>
-<h3 align="center">  BackEnd .Net  </h3>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</a>
-  
-<h1 align="middel">My accounts :</h1>
-<p align="middel">
-<a href="https:/www.linkedin.com/in/mostafa-yassin-778792258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostafa Yassin" height="60" width="70" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005833392012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mostafa Yassin" height="60" width="70" /></a>
-<a href="https://codeforces.com/profile/Mentgreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mentgreen" height="60" width="70" /></a>
-<a href="https://leetcode.com/u/Mostafa_Yassin10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="Mostafa_Yassin10" height="60" width="70" /></a>
-  
-</p>
-<h1 align="middel">Languages and Tools:</h1>
-<p align="middel"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" height="80" width="80" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&color=9D50BB&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+ECPC+Finalist" alt="Typing SVG" />
 </p>
 
-<b><img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="35"> Github Stats </b>
-<br>
-<div align="center">
-<a href="https://github.com/mostafa-create">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-create&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-create&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="EslamAymann22"/>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-</a>
-</div>
+---
 
-<br>
-<br>
-<br>
-<br>
-<br>
+### 🚀 About Me
+- 🎓 **Senior Computer Science Student** at Sohag University (Class of 2026).
+- 💻 **Backend Developer** specializing in **C#**, **.NET Core**, and **Clean Architecture**.
+- 🏆 **Problem Solving Mentor** and **ECPC Finalist**—passionate about algorithms and optimization.
+- 🛠️ **Project Spotlight:** Currently building **ExamFlow**, a high-concurrency platform solving the "Thundering Herd" problem.
 
-<div align='left'>
+### 🛠️ Technical Arsenal
 
-<ul>
+**Core Backend & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
-<div align='center'>
+**Architecture & Design**
+- **Pattern Mastery:** Onion Architecture, 3-Layer Architecture, Repository Pattern.
+- **Problem Solving:** Competitive Programming, Data Structures, and Algorithms.
+- **UI/UX Preference:** Cosmic Themes (Midnight Purple & Dark Aesthetics).
+
+---
+
+### 📊 Competitive Programming & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USER&theme=tokyonight" width="48%" />
+</p>
+
+![Snake Animation](https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/github-contribution-grid-snake-dark.svg)
