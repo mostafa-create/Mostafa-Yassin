@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/mostafa-yassin-70b925251">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mostafayassin532@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -15,7 +15,7 @@
 - 🎓 **Senior Computer Science Student** at Sohag University (Class of 2026).
 - 💻 **Backend Developer** specializing in **C#**, **.NET Core**, and **Clean Architecture**.
 - 🏆 **Problem Solving Mentor** and **ECPC Finalist**—passionate about algorithms and optimization.
-- 🛠️ **Project Spotlight:** Currently building **ExamFlow**, a high-concurrency platform solving the "Thundering Herd" problem.
+- 🛠️ **Project Spotlight:** Currently building **ExamFlow**, a high-concurrency platform.
 
 ### 🛠️ Technical Arsenal
 
@@ -32,18 +32,16 @@
 **Architecture & Design**
 - **Pattern Mastery:** Onion Architecture, 3-Layer Architecture, Repository Pattern.
 - **Problem Solving:** Competitive Programming, Data Structures, and Algorithms.
-- **UI/UX Preference:** Cosmic Themes (Midnight Purple & Dark Aesthetics).
 
 ---
 
-### 📊 Competitive Programming & Stats
+### 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USER&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-create&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Mostafa-create&theme=tokyonight" width="48%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-</picture>
+### 👾 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-create&theme=tokyonight-purple&area=true&hide_border=true" width="100%" />
+</p>
