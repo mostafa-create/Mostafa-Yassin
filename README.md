@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="avatar.png" width="150" style="border-radius: 50%; border: 3px solid #9D50BB;" alt="Mostafa Yassin" />
+<p align="left">
+  <img src="avatar.png" align="right" width="180" style="border-radius: 15px; margin-left: 20px;" alt="Mostafa Yassin Avatar" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&color=9D50BB&center=false&vCenter=true&width=450&height=60&lines=Hi,+I'm+Mostafa+Yassin" alt="Typing SVG" />
+  
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=9D50BB&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+PS+Mentor" alt="Typing SVG" />
-</h1>
 
 
 ###
