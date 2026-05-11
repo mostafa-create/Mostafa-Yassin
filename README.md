@@ -1,47 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&color=9D50BB&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mostafa+Yassin;Backend+Developer+%7C+.NET+Expert;Competitive+Programmer+%7C+ECPC+Finalist" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mostafa-yassin-70b925251">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="mailto:mostafayassin532@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="60" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
 
-### 🚀 About Me
-- 🎓 **Senior Computer Science Student** at Sohag University (Class of 2026).
-- 💻 **Backend Developer** specializing in **C#**, **.NET Core**, and **Clean Architecture**.
-- 🏆 **Problem Solving Mentor** and **ECPC Finalist**—passionate about algorithms and optimization.
-- 🛠️ **Project Spotlight:** Currently building **ExamFlow**, a high-concurrency platform.
+###
 
-### 🛠️ Technical Arsenal
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
 
-**Core Backend & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+###
 
-**Architecture & Design**
-- **Pattern Mastery:** Onion Architecture, 3-Layer Architecture, Repository Pattern.
-- **Problem Solving:** Competitive Programming, Data Structures, and Algorithms.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mostafa-create/mostafa-create/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mostafa-create&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-create&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Mostafa-create&theme=tokyonight" width="48%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafa-create/mostafa-create/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafa-create/mostafa-create/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mostafa-create/mostafa-create/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-### 👾 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-create&theme=tokyonight-purple&area=true&hide_border=true" width="100%" />
-</p>
+###
